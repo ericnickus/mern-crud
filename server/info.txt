@@ -1,0 +1,5 @@
+
+
+
+to run - node server.js  (in server directory )
+(in client directory) - npm start
